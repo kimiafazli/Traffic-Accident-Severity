@@ -9,9 +9,7 @@
 
 ![image](https://github.com/user-attachments/assets/3745a643-a4f2-474d-8c11-265bdfd2901d)
 
-![image](https://github.com/user-attachments/assets/ddbc38ea-88c1-412f-8c34-40affa2f5a5f)
-
-
+![image](https://github.com/user-attachments/assets/986a9932-eddb-4594-9ee6-6fcfd5b327ef)
 
 * Insights
   
@@ -19,6 +17,6 @@
 
 ![image](https://github.com/user-attachments/assets/83f027e2-2f18-473c-8379-5eab662578f6)
 
-![image](https://github.com/user-attachments/assets/986a9932-eddb-4594-9ee6-6fcfd5b327ef)
+![image](https://github.com/user-attachments/assets/ddbc38ea-88c1-412f-8c34-40affa2f5a5f)
 
 ![Screenshot (1186)](https://github.com/user-attachments/assets/6634511e-0af4-4b94-9b02-8144001ce1db)
