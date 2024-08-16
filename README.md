@@ -1,7 +1,7 @@
 # Identifying Key Factors in Traffic Accident Severity: A SHAP and Machine Learning Approach in North Carolina
  Road accidents present a significant challenge globally, impacting economies, national resources, and human lives. This study focuses on analyzing traffic accident data from North Carolina to identify the factors influencing crash severity. Utilizing data collected over several years, five machine learning techniques including Logistic Regression, XGBoost, Random Forest, K-Nearest Neighbors, and Decision Tree were rigorously evaluated. Among these, XGBoost demonstrated superior performance, achieving an accuracy of 91%. Detailed analyses, including Confusion Matrix Analysis and ROC-AUC Analysis, further validated the effectiveness of the algorithms. Additionally, SHAP values analysis was employed to pinpoint key factors contributing to accident severity. These findings highlight the critical role of diverse features in accurately predicting road accident severity and emphasize the potential of advanced machine learning methods in enhancing road safety measures.
- Dataset:
- kaggle datasets download -d sobhanmoosavi/us-accidents
+* Dataset
+ [kaggle datasets download -d sobhanmoosavi/us-accidents](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents)
 
 
 * Results
